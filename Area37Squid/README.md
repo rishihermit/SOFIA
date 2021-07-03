@@ -1,7 +1,8 @@
 # area37
 
 Experiment with Rishi, demonstrating how the SOFIA analysis for Area 37
-(Mediterranean and Black Sea) can run in TAF.
+(Mediterranean and Black Sea) can run in TAF. Now splitting into groups; 
+This is squids, octopus, etc
 
 ## How to run
 
