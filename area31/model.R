@@ -16,7 +16,7 @@ nested_indo <- readRDS("data/input.rds")
 ## Run model
 setwd("model")  # compile inside 'model' folder
 sfs <- safely(fit_sraplus)
-samps <- 30
+samps <- 41
 a <- Sys.time()
 nested_indo <- nested_indo %>%
   ungroup() %>%
